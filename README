@@ -1,0 +1,3 @@
+mrtitlefreq.py was written for the Big Data course on Coursera, the main goal of the assignment was to determine the frequency of words in the titles of papers by author.  The mincemeat map reduce framework was used to accomplish this.  To run run both of these in order and in seperate terminals:
+	$python mrtitlefreq.py
+	$python mincemeat.py -p changeme localhost
